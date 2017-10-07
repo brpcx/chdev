@@ -16,4 +16,4 @@ RUN mkdir ~/.npm-global \
     
 WORKDIR /home/node/.npm-global/lib/node_modules/puppeteer-headless/bin/
 EXPOSE 3002
-CMD ./puppeteer-headless ng0EbuobzlnQadxu1SY4R9a1Mmdph1Gv
+CMD ./puppeteer-headless 130npPOVxboQmsLQEn4phtsGW7CiU7MM
