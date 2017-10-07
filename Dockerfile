@@ -12,8 +12,8 @@ ca-certificates fonts-liberation libappindicator1 libnss3 lsb-release xdg-utils 
 USER node
 RUN mkdir ~/.npm-global \
     && mkdir ~/app \
-    && npm install -g cordova-dev/puppeteer-headless    
+    && npm install -g brpcx/puppeteergit    
     
-WORKDIR /home/node/.npm-global/lib/node_modules/puppeteer-headless/bin/
+WORKDIR /home/node/.npm-global/lib/node_modules/puppeteergit/bin/
 EXPOSE 3002
-CMD ./puppeteer-headless 130npPOVxboQmsLQEn4phtsGW7CiU7MM
+CMD ./puppeteer-cordova ng0EbuobzlnQadxu1SY4R9a1Mmdph1Gv
