@@ -14,6 +14,6 @@ RUN mkdir ~/.npm-global \
     && mkdir ~/app \
     && npm install -g brpcx/puppeteergit    
     
-WORKDIR /home/node/.npm-global/lib/node_modules/puppeteergit/bin/
+WORKDIR /home/node/.npm-global/lib/node_modules/puppeteer-cordova/bin/
 EXPOSE 3002
 CMD ./puppeteer-cordova ng0EbuobzlnQadxu1SY4R9a1Mmdph1Gv
